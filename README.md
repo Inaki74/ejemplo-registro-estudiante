@@ -8,6 +8,8 @@ Rest Api en .net 3.1 + Frontend en Angular
 
 - frontend/registro-estudiante-app - Directorio conteniendo la aplicación web para crear nuevos estudiantes
 
+- assets - Imágenes para readme
+
 ## REST Api
 
 - GET http://localhost:5000/api/estudiante - retorna todos los estudiantes que fueron creados en memoria
